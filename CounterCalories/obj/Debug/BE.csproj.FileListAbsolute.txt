@@ -1,0 +1,99 @@
+Z:\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+Z:\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+Z:\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+Z:\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+Z:\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\EntityFramework.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\EntityFramework.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll.config
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll.config
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CopyComplete
+C:\Users\User\Desktop\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+C:\Users\User\Desktop\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll.config
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\EntityFramework.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\EntityFramework.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CopyComplete
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CopyComplete
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.InitialCreate.resources
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csproj.GenerateResource.cache
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.AddFoodClass.resources
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll.config
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+C:\Users\יאירוווווסס\Desktop\ירדן\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll.config
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\CounterCalories.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignColors.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.pdb
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.Update.resources
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csproj.GenerateResource.Cache
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.addDay.resources
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.change.resources
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.grams.resources
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\לימודים\שנה ג\סמסטר ב\מערכות חלונות\CounterCalories\CounterCalories\CounterCalories\obj\Debug\CounterCalories.Migrations.data.resources

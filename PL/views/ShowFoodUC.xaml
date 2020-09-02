@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="PL.views.ShowFoodUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:PL"
+             xmlns:System="clr-namespace:System;assembly=mscorlib"
+             xmlns:enm="clr-namespace:BE;assembly=CounterCalories"
+             xmlns:local1="clr-namespace:PL"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="350" x:Name="Parent">
+    <UserControl.Resources>
+        <ObjectDataProvider x:Key="enmMeal" MethodName="GetValues" ObjectType="{x:Type System:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="enm:EMeal"></x:Type>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+        <local1:FieldsToWeight x:Key="fieldsToWeight"/>
+    </UserControl.Resources>
+
+
+    <Grid x:Name="panelShow" VerticalAlignment="Bottom" Height="500" FlowDirection="RightToLeft">
+        <Grid.Background>
+            <ImageBrush ImageSource="/PL;component/Assets/Leaves.jpg"/>
+        </Grid.Background>
+
+        <DataGrid Name="datagrid" ItemsSource="{Binding  Path=table, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=True, ValidatesOnDataErrors=True   }"  HorizontalAlignment="Left" Height="348" Margin="10,68,0,0" VerticalAlignment="Top" Width="330" IsReadOnly="True" FlowDirection="LeftToRight" />
+        
+       
+    </Grid>
+</UserControl>

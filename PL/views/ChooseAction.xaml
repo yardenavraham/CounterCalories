@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="PL.ChooseActionUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+             xmlns:local="clr-namespace:PL.UserControls"
+             mc:Ignorable="d" 
+>
+    <Grid x:Name="panel">
+
+        <dragablz:TabablzControl  >
+            <dragablz:TabablzControl.InterTabController>
+                <dragablz:InterTabController />
+            </dragablz:TabablzControl.InterTabController>
+            <TabItem Header="HOME">
+                <Grid>
+                    <UserControl Name="Home" Content="{Binding Home}"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="ADD FOOD">
+                <UserControl Name="addFood" Content="{Binding AddFood}"/>
+            </TabItem>
+            <TabItem Header="SHOW FOOD" >
+                <UserControl Name="showFood" Content="{Binding ShowFood}"/>
+            </TabItem>
+            <TabItem Header="UPDATE WEIGHT">
+                <UserControl Name="weight" Content="{Binding Weight}"/>
+            </TabItem>
+            <TabItem Header="WEIGHT TRACKING" >
+                <UserControl Name="weightTracking" Content="{Binding weightTracking}"/>
+            </TabItem>
+        </dragablz:TabablzControl>
+       
+    </Grid>
+</UserControl>
