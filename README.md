@@ -10,7 +10,7 @@ The project was done as part of a course in software engineering studies.
 
 # Screen shots
 
-![Image of Yaktocat](https://github.com/yardenavraham/CounterCaloris/blob/master/Screenshot_1.jpg)
+![Image of Yaktocat](https://github.com/yardenavraham/CounterCaloris/blob/master/Screenshot_1.jpeg)
 
 
 
