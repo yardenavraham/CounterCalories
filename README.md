@@ -8,5 +8,9 @@ Built a WPF user interface according to the MVVM format with SQL Server database
 The goal of the project is to help people live a healthy lifestyle by tracking the amount of calories they eat.
 The project was done as part of a course in software engineering studies.
 
-#
+# Screen shots
+
+![Image of Yaktocat](https://github.com/yardenavraham/CounterCaloris/blob/master/Screenshot_1.jpg)
+
+
 
