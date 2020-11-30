@@ -22,7 +22,7 @@ Built a WPF user interface according to the MVVM format with SQL Server database
 ## Features
 
 - User autentication.
-- Calculates 
+- Calculate the weekly caloric intake and display it in a graph. The calculation is done according to BMI and BMR which are equations to the calculation of the daily calories    that should be for the user considering the amount of sport he does, his age and his gender.
 
 ## Installation
 
