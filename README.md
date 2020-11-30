@@ -19,11 +19,23 @@ The project was done as part of a course in software engineering studies.
 Built a WPF user interface according to the MVVM format with SQL Server database.Using Syncfusion clou and FoodData Central API. 
 - [FoodData Central API guide](https://fdc.nal.usda.gov/api-guide.html).
 
+## Features
 
-## How to use?
+- User autentication.
+- Calculates 
+
+## Installation
 
 1. Check that Visual Studio in installed (vertion 2015 at least). 
 2. Check that SQL Server is connected to your VS. If it's not, check [this](https://blogs.gre.ac.uk/cmssupport/application-development/programming/asp-net/connecting-to-sql-server-using-visual-studio/) guide for conection.
+3. Clone this project to your computer.
+
+## How to use?
+
+Register as a user for the app and add how many grams you want to lose per week.
+Enter the app and there you will choose a day and enter the foods you eat during the day. Along with the amount of sports you do, it is calculated how many grams you will be able to drop this week.
+You can see in the graph the amount of your daily decrease or increase.
+Hopefully you will be able to maintain a healthy lifestyle and lose weight.
 
 ## Credits
 
