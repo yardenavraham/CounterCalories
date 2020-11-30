@@ -14,7 +14,10 @@ The project was done as part of a course in software engineering studies.
 
 ![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_2.jpeg)
 
+# Credits
 
-MIT © [Yarden Avraham]()
+This project was done with my classmate Tamar Levanony. 
+
+MIT © [Yarden Avraham & Tamar Levanony]()
 
 
