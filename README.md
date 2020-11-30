@@ -27,7 +27,7 @@ Built a WPF user interface according to the MVVM format with SQL Server database
 ## Installation
 
 1. Check that Visual Studio in installed (vertion 2015 at least). 
-2. Check that SQL Server is connected to your VS. If it's not, check [this](https://blogs.gre.ac.uk/cmssupport/application-development/programming/asp-net/connecting-to-sql-server-using-visual-studio/) guide for conection.
+2. Check that SQL Server is connected to your VS. If it's not, check [this](https://blogs.gre.ac.uk/cmssupport/application-development/programming/asp-net/connecting-to-sql-server-using-visual-studio/) guide for connection.
 3. Clone this project to your computer.
 
 ## How to use?
