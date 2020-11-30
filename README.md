@@ -12,6 +12,6 @@ The project was done as part of a course in software engineering studies.
 
 ![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_1.jpeg)
 
-![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_2.jpg)
+![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_2.jpeg)
 
 
