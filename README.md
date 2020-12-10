@@ -1,4 +1,4 @@
-# Counter calories desktop appliction
+# Counter Calories Desktop Appliction
 
 An eating profile monitoring system that displays tracking for daily calorie loss according to meal data of the user.
 Built a WPF user interface according to the MVVM format with SQL Server database.Using Syncfusion and FoodData Central API.
@@ -13,6 +13,8 @@ The project was done as part of a course in software engineering studies.
 ![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_1.jpeg)
 
 ![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_2.jpeg)
+
+![Image of Yaktocat](https://github.com/yardenavraham/CounterCalories/blob/master/Screenshot_3.jpeg)
 
 ## Tech/framework used
 
